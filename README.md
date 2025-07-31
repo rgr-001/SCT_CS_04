@@ -58,28 +58,4 @@ Do not run this on anyone else's computer. This script:
 
 ---
 
-## 📢 LinkedIn Post Template
-
-```
-⌨️ Task 4 Completed: Ethical Keylogger Program @SkillCraft Technology
-
-✅ Built a system-level keystroke logger in Python that:
-- Captures keyboard input in real time
-- Logs to local file with special key handling
-- Stops safely using ESC key
-
-⚠️ Project follows strict ethical guidelines and was developed for educational use only.
-
-🧠 Key Learnings:
-- System-level programming
-- Event listeners and callback handling
-- Cybersecurity awareness on keylogging tools
-
-🔗 GitHub: https://github.com/rgr-001/SCT_CS_04
-
-#SkillCraftTechnology #CyberSecurity #Task4Complete #Python #SystemProgramming #EthicalCoding
-```
-
----
-
 **Made with ⚠️ responsibility & 💡 for learning by RGR**  
