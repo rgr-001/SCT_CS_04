@@ -26,7 +26,7 @@ This project demonstrates how system-level keystrokes can be logged using Python
 
 ```
 SCT_CS_04/
-├── main.py             # Keylogger script
+├── main4.py             # Keylogger script
 └── logs/
     └── keylog.txt      # Output keystroke log
 ```
